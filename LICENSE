@@ -1,21 +1,32 @@
-MIT License
+Antigravity Arabic Suite — Source-Available Noncommercial License
 
-Copyright (c) 2026 Antigravity Arabic Community
+Copyright (c) 2026 Eng. Mohamed (@khfaji)
+Repository: https://github.com/Khfaji/antigravity-arabic-suite
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Grant of Rights (Personal & Non-Commercial Use)
+   Permission is granted to any individual to view, download, install, and use
+   this software and its source code strictly for personal, educational, or
+   non-commercial purposes, free of charge.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Prohibited Uses (No Commercial Exploitation or Rebranding)
+   You may NOT:
+   a) Sell, rent, lease, sublicense, or monetize this software, any modified
+      version, or any service built around it.
+   b) Redistribute, repackage, or publish the software or any substantial
+      portion of its code under a different name, brand, or authorship claim.
+   c) Remove, obscure, or alter any copyright notice, author attribution
+      ("Eng. Mohamed" / "t.me/khfaji"), or integrity verification within
+      the software or its user interface.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Contributions & Forks
+   Public forks for personal study or pull requests back to the official
+   repository are permitted, provided all original copyright notices, this
+   license, and author attribution remain intact and non-commercial.
+
+4. Disclaimer
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY ARISING FROM THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
